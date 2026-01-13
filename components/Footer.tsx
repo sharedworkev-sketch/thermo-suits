@@ -11,13 +11,13 @@ export default function Footer() {
       <br />
       Телефон:
       <br />
-      <a href="tel:+375295503018">+375 29 00 00 000</a>
+      <a href="tel:+375255267712">+375 25 526 77 12</a>
       <br />
       E-mail:
       <br />
-      <a href="mailto:gmail@gmail.com">gmail@gmail.com</a>
+      <a href="mailto:shared.work.ev@gmail.com">shared.work.ev@gmail.com</a>
       <br />
-      УНП: 000000000
+      УНП: 193897481
       <br />
       <br />
       <a className="underline" href="">
